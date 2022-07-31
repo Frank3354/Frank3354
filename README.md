@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-[LeetCode Profile](https://leetcode.com/FMota335/)
+<br/>
+[LeetCode Profile](https://leetcode.com/FMota335/) 
+<br/>
 [LinkedIn Profile](https://www.linkedin.com/in/francisco-mota335/)
 
 <!--
