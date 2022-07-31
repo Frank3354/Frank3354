@@ -1,8 +1,9 @@
 ### Hi there 👋
 <br/>
-[LeetCode Profile](https://leetcode.com/FMota335/) 
+<a href="https://leetcode.com/FMota335/">LeetCode</a>
 <br/>
-[LinkedIn Profile](https://www.linkedin.com/in/francisco-mota335/)
+<a href="https://www.linkedin.com/in/francisco-mota335/">LinkedIn</a>
+
 
 <!--
 **Frank3354/Frank3354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
