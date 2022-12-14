@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/francisco_mota31">HackerRank</a>
 
 <br/>
-<a href="https://www.linkedin.com/in/francisco-mota335/">LinkedIn</a>
+[LinkedIn goes here]
 -->
 
 <!--
