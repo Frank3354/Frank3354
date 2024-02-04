@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/francisco_mota31">HackerRank</a>
 
 <br/>
-<a href="https://www.linkedin.com/in/francisco-mota335/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/francisco-mota-dot-dev/">LinkedIn</a>
 
 <br/>
 <a href="https://www.boot.dev/u/greatleading52">Boot.dev</a>
