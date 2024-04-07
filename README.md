@@ -8,10 +8,15 @@
 <a href="https://www.hackerrank.com/francisco_mota31">HackerRank</a>
 
 <br/>
-<a href="https://www.linkedin.com/in/francisco-mota-dot-dev/">LinkedIn</a>
+<a href="https://www.boot.dev/u/greatleading52">Boot.dev</a>
 
 <br/>
-<a href="https://www.boot.dev/u/greatleading52">Boot.dev</a>
+<a href="https://frontendmasters.com/u/Frank3354/">Frontend Masters</a>
+
+---
+
+<br/>
+- 📫 Send me a message on <a href="https://www.linkedin.com/in/francisco-mota-dot-dev/">LinkedIn</a>!
 
 
 <!--
@@ -24,6 +29,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
