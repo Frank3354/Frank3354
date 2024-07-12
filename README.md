@@ -16,7 +16,7 @@
 ---
 
 <br/>
-- 📫 Send me a message on <a href="https://www.linkedin.com/in/francisco-mota-dot-dev/">LinkedIn</a>!
+- 📫 Send me a message on <a href="https://www.linkedin.com/in/franciscomota-swe/">LinkedIn</a>!
 
 
 <!--
