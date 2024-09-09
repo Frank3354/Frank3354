@@ -2,13 +2,12 @@
 
 ## What I am currently working on 🏗️
 
-<a href="https://github.com/Frank3354/carbooking">Car Booking App</a>
+<h3><a href="https://github.com/Frank3354/carbooking">Car Booking App</a></h3>
 
-### Linked Projects
+#### Linked Project Management Boards
 - <a href="https://github.com/users/Frank3354/projects/3">Milestone 1 - CLI Implementation</a>
 
 ## Links to other platforms
-<br/>
 <a href="https://leetcode.com/FMota335/">LeetCode</a>
 
 <br/>
