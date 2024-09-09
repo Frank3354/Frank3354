@@ -9,7 +9,7 @@
 
 ---
 
-## Links to other platforms
+## Links to other platforms 📖
 <a href="https://leetcode.com/FMota335/">LeetCode</a>
 
 <a href="https://www.hackerrank.com/francisco_mota31">HackerRank</a>
@@ -20,9 +20,9 @@
 
 ---
 
-## How to contact me
+## How to contact me 📫
 <br/>
-- 📫 Send me a message on <a href="https://www.linkedin.com/in/franciscomota-swe/">LinkedIn</a>!
+- Send me a message on <a href="https://www.linkedin.com/in/franciscomota-swe/">LinkedIn</a>!
 
 
 <!--
