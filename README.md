@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-#### What I am currently working on 🏗️
-<br/>
+## What I am currently working on 🏗️
+
 <a href="https://github.com/Frank3354/carbooking">Car Booking App</a>
-<br/>
-##### Linked Projects
-<li><a href="https://github.com/users/Frank3354/projects/3">Milestone 1 - CLI Implementation</a></li>
 
-#### Links to other platforms
+### Linked Projects
+- <a href="https://github.com/users/Frank3354/projects/3">Milestone 1 - CLI Implementation</a>
+
+## Links to other platforms
 <br/>
 <a href="https://leetcode.com/FMota335/">LeetCode</a>
 
@@ -22,7 +22,7 @@
 
 ---
 
-#### How to contact me
+## How to contact me
 <br/>
 - 📫 Send me a message on <a href="https://www.linkedin.com/in/franciscomota-swe/">LinkedIn</a>!
 
