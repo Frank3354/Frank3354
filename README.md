@@ -7,16 +7,15 @@
 #### Linked Project Management Boards
 - <a href="https://github.com/users/Frank3354/projects/3">Milestone 1 - CLI Implementation</a>
 
+---
+
 ## Links to other platforms
 <a href="https://leetcode.com/FMota335/">LeetCode</a>
 
-<br/>
 <a href="https://www.hackerrank.com/francisco_mota31">HackerRank</a>
 
-<br/>
 <a href="https://www.boot.dev/u/greatleading52">Boot.dev</a>
 
-<br/>
 <a href="https://frontendmasters.com/u/Frank3354/">Frontend Masters</a>
 
 ---
